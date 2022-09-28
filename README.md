@@ -1,3 +1,5 @@
+![Markdown logo](/img/subie.jpg "Subaru")
+
 # Learning GItHub desktop
 
 This is so much better
