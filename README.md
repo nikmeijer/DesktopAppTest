@@ -17,3 +17,7 @@ Nikolai Meijer
 ## License
 
 MIT
+
+## I added this part
+
+Wow look at me go hahaha I'm so cool yoooooo B) look at my sunglasses!
